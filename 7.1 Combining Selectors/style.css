@@ -1,0 +1,31 @@
+/* Write your code here: */
+/*Ancestor: An ancestor element is a parent,grandparent,great-grandparent,or any higher-level element in the HTML hierarchy. 
+It refers to an element that contains another element or elements nested within it. An ancestor can be several levels up from 
+the element in question. 
+
+Descendant: A descendant element is a child,grandchild,reat-grandchild, or any lower-level element in the HTML hierarchy. 
+It refers to an element that is contained within another element or nested within multiple levels of ancestors.*/
+/* Group Rule*/
+h1, h2{
+    color: blueviolet;
+}
+
+/*Child Selector */
+.box > p{
+    color:firebrick;
+}
+
+/* Descendant selector*/
+.box li{
+    color: blue;
+}
+
+/* Chain selector*/
+li.done{
+   color: seagreen;  
+}
+
+/* Combining combiners*/
+ul p.done{
+    font-size: 0.5rem;
+}
