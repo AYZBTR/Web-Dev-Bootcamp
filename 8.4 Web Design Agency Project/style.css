@@ -19,3 +19,22 @@ footer {
   color: midnightblue;
 }
 
+.Creative{
+  color: blue;
+}
+
+.tile-image{
+  float: left;
+  height: 200px;
+  margin-right: 60px;
+}
+.card{
+  width: 45%;
+}
+
+.left{
+  float: left;
+}
+.right{
+  float: right;
+}
