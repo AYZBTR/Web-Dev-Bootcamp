@@ -6,6 +6,7 @@
     height: 200px;
     width: 200px;
     position:relative;
+    
 }
 .slogan{
     text-align: center;
@@ -42,15 +43,14 @@
     width: 40%;
     margin-top: 100px;
     justify-content: center;
+    
 }
 .specification{
     font-size: 18px;
     padding-left: 3%;
     margin: 0px;
-    
-
-
 }
+
 .clickme{
     color: blue;
     }
