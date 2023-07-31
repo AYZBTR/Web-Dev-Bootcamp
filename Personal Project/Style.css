@@ -1,0 +1,33 @@
+*{
+    background-color:wheat
+}
+.logo{
+    height: 200px;
+    width: 200px;
+    position:relative;
+}
+.slogan{
+    text-align: center;
+    float: right;
+    margin: 0;
+    font-size: 4.3rem;
+}
+#description.desc{
+    font-size: larger;
+    text-align: center;
+    margin: 0;
+    float: left;
+   
+}
+
+.Color{
+    Color: red;
+}
+
+.iphone{
+    height: 200px;
+    width: 200px;
+    margin-top: 100px;
+    border: 5px solid gray;
+
+}
