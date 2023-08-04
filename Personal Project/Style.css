@@ -1,6 +1,7 @@
 *{
     background-color:wheat;
     
+    
 }
 .logo{
     height: 200px;
@@ -15,11 +16,11 @@
     font-size: 4.3rem;
 }
 
-#description.desc{
+.desc{
     font-size: larger;
     text-align: center;
     margin: 0;
-    float: left;
+    
    
 }
 
@@ -42,15 +43,14 @@
     font-size: 1.2rem;
     width: 40%;
     margin-top: 80px;
-    justify-content: center;
     float: left;
-    
-    
 }
+
 .specification{
     font-size: 18px;
     padding-left: 10%;
     margin-top: 40px;
+    clear: both;
 }
 
 .clickme{
@@ -73,6 +73,7 @@
     margin-top: 80px;
     padding-right: 10%;
     
+    
 }
 
 #secondcontainer p{
@@ -86,4 +87,17 @@
 .watch{
     font-size: 18px;
     padding-left: 4%;
+    clear:both;
+}
+footer{
+    clear: both;
+    text-align: center;
+    font-size: large;
+
+    
+}
+
+.clear-both{
+    clear: both;
+
 }
