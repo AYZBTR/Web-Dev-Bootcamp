@@ -38,6 +38,8 @@
 
 }
 
+/* First Product*/
+
 #firstcontainer{
     
     font-size: 1.2rem;
@@ -66,14 +68,14 @@
     margin-right: 10px;
 }
 
+/* Second Product*/
+
 #secondcontainer{
     width: 40%;
     font-size: 1.2rem;
     float: right;
     margin-top: 80px;
     padding-right: 10%;
-    
-    
 }
 
 #secondcontainer p{
@@ -93,11 +95,5 @@ footer{
     clear: both;
     text-align: center;
     font-size: large;
-
-    
 }
 
-.clear-both{
-    clear: both;
-
-}
